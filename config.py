@@ -5,19 +5,19 @@ from logging.handlers import RotatingFileHandler
 
 
 # Get a bot token from botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6786726247:AAE9OW_VPFBsf3q1pZ9RW8bbexsNySTGAnQ")
 
 # Get from my.telegram.org (or @UseTGXBot)
-APP_ID = int(os.environ.get("APP_ID", ""))
+APP_ID = int(os.environ.get("APP_ID", "21145186"))
 
 # Get from my.telegram.org (or @UseTGXBot)
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "daa53f4216112ad22b8a8f6299936a46")
 
 # Generate a user session string 
 TG_USER_SESSION = os.environ.get("TG_USER_SESSION", "")
 
 # ID of Channel from which the bot shoul search files
-MAINCHANNEL_ID = os.environ.get("MAINCHANNEL_ID", "")
+MAINCHANNEL_ID = os.environ.get("MAINCHANNEL_ID", "-1002148186467w")
 
 
 
