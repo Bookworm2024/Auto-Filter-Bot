@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+You can call this a great leap towards humanity if you like :D
 
 Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
@@ -29,7 +29,7 @@ Bot will automatically search for your file and give links to that!
 <b>© @Infohubcinemas</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : 22nd Century Cinemas File</b>
     
 ⭕️<b>Creater :</b> @the_universal_being
 
